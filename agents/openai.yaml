@@ -1,0 +1,6 @@
+interface:
+  display_name: "面试瞬时反应教练"
+  short_description: "整理经历并训练面试长回答"
+  default_prompt: "Use $interview-reaction-coach to collect my interview experiences and guide me through long-answer practice."
+policy:
+  allow_implicit_invocation: true
